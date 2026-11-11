@@ -10,6 +10,8 @@ também.**
 
 **[Baixar para Windows (zip, 45 MB)](https://github.com/walteramguntzel-debug/maquina-de-pelucia-windows/releases/latest/download/MaquinaDePelucia-Windows.zip)**
 
+🎬 [Veja uma partida real no YouTube](https://youtu.be/vBGDhlEXME8)
+
 ## Como instalar
 
 1. Baixe o zip acima.
